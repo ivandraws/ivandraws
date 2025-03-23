@@ -1,5 +1,6 @@
-### Salve galera 👋
+### Olá, mundo! Hello, world! 👋
 
+Me chamo Ivan, estudante calouro de Ciência da Computação e tenho como hobby desenho também!
 <!--
 **IvanGamesBR/IvanGamesBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
