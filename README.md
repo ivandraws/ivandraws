@@ -1,6 +1,10 @@
-### Olá, mundo! Hello, world! 👋
+### Hello, world! 👋
 
-Me chamo Ivan, estudante calouro de Ciência da Computação e tenho como hobby desenho também!
+I'm Ivan. I am from Federal University of Piaui, taking a CS major! As of now, i'm first year.
+
+- 🔭 I’m currently working on preparing myself for a coding marathon
+- 🌱 I’m currently learning C/C++
+
 <!--
 **IvanGamesBR/IvanGamesBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
