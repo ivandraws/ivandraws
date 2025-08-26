@@ -6,7 +6,7 @@ I'm Ivan. I am from Federal University of Piaui, taking a CS major! As of now, i
 - 🌱 I’m currently learning C/C++
 
 ### Tools:
-<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/117255cc-a311-4fc2-932d-2b7b83c45f3a" />
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png' alt='vscode' height='40'>](https://github.com/ivandraws)  
 
 
 <!--
