@@ -1,9 +1,13 @@
-### Hello, world! 👋
+## Hello, world! 👋
 
 I'm Ivan. I am from Federal University of Piaui, taking a CS major! As of now, i'm first year.
 
 - 🔭 I’m currently working on preparing myself for a coding marathon
 - 🌱 I’m currently learning C/C++
+
+### Tools:
+<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/117255cc-a311-4fc2-932d-2b7b83c45f3a" />
+
 
 <!--
 **IvanGamesBR/IvanGamesBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
