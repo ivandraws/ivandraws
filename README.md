@@ -1,4 +1,4 @@
-## Hello, world! 👋
+# Hello, world! 👋
 
 I'm Ivan. I am from Federal University of Piaui, taking a CS major! As of now, i'm first year.
 
