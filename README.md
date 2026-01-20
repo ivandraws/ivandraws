@@ -9,6 +9,7 @@ I'm Ivan. I am from Federal University of Piaui, taking a CS major! As of now, i
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png' alt='vscode' height='40'>](https://github.com/ivandraws) 
 #### Languages
  [<img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' alt='cpp' height='40'>](https://github.com/ivandraws) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png' alt = 'Python' height = '40'>](https://github.com/ivandraws)
+[<img height="40" alt="Java_programming_language_logo svg" src="https://github.com/user-attachments/assets/1e086164-1f9f-4c46-93aa-69e78afb2195" alt = 'Java'/>](https://github.com/ivandraws)
 
 
 <!--
