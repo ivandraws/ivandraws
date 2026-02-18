@@ -2,8 +2,8 @@
 
 I'm Ivan. I am from Federal University of Piaui, taking a CS major! As of now, i'm first year.
 
-- 🔭 I’m currently working on preparing myself for a coding marathon
-- 🌱 I’m currently learning C/C++ and Git
+- 🔭 I’m currently working on getting the hang of modern technology and finish CS50 Course
+- 🌱 I’m currently learning C/C++, Git, Godot and Python
 
 ### Tools:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png' alt='vscode' height='40'>](https://github.com/ivandraws) 
