@@ -2,7 +2,7 @@
 
 I'm Ivan. I am from Federal University of Piaui, taking a CS major! As of now, i'm first year.
 
-- 🔭 I’m currently working on getting the hang of modern technology and finish CS50 Course
+- 🔭 I’m currently working on finishing CS50 Course
 - 🌱 I’m currently learning C/C++, Git, Godot and Python
 
 ### Tools:
